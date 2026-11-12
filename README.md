@@ -1,4 +1,4 @@
-# Lab MLOps Thực Hành: Từ Thực Nghiệm Cục Bộ Đến Triển Khai Liên Tục
+# MLOps-CI-CD-AI-Systems-Lab
 
 Course: AIInAction - VinUni
 Buổi: Day 21 - CI/CD cho AI Systems
